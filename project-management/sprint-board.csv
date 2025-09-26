@@ -1,0 +1,14 @@
+Sprint,Task,Status,Owner,Estimate (hrs),Dependencies,Demo Criteria
+Sprint 0,Repository setup,To Do,Front-End Dev,6,,Repo initialized with Next.js and Tailwind
+Sprint 0,Tooling configuration,In Progress,Front-End Dev,4,Repository setup,Linting and formatting scripts run successfully
+Sprint 0,Discovery alignment,To Do,Product Manager,3,,Kickoff notes documented
+Sprint 1,Mobile wireframes,To Do,UX Designer,10,Discovery alignment,Wireframes approved by stakeholders
+Sprint 1,Desktop wireframes,To Do,UX Designer,8,Mobile wireframes,Desktop layouts signed off
+Sprint 1,Content outline drafts,To Do,Copywriter,6,Discovery alignment,Content map approved
+Sprint 2,Design token definition,To Do,UI Designer,6,Wireframes,Tokens documented in docs/ui/brand-style-guide.md
+Sprint 2,Component specs,To Do,UI Designer,8,Design token definition,Storybook components list ready
+Sprint 3,Home page development,To Do,Front-End Dev,16,Component specs,Responsive home page demo-ready
+Sprint 4,Portfolio gallery integration,To Do,Front-End Dev,18,Home page development,CMS-driven gallery with filters working
+Sprint 4,Booking embed implementation,To Do,Front-End Dev,10,Portfolio gallery integration,End-to-end booking flow embedded
+Sprint 5,Accessibility QA,To Do,QA Engineer,12,All development sprints,Lighthouse accessibility score ≥ 90
+Sprint 6,Launch checklist completion,To Do,Product Manager,8,Accessibility QA,Checklist signed off in docs/delivery/qa-launch-checklist.md

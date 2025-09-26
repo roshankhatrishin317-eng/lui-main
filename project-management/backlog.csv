@@ -1,0 +1,12 @@
+Epic,Feature,User Story,Priority,Status,Owner,Estimate (pts),Notes
+Discovery,Brand Strategy,As a stakeholder I want a clear brand vision so that the site feels cohesive,High,Planned,Brand Lead,3,Refer to docs/discovery/vision-goals.md
+UX,Information Architecture,As a visitor I want intuitive navigation so I can find services quickly,High,In Progress,UX Designer,5,Wireframes in docs/ux/
+UX,Wireframes,As a client I want mobile-friendly layouts so I can book from my phone,High,Planned,UX Designer,8,Create in Figma
+UI,Design System,As a developer I need tokens and components to ensure consistency,High,Planned,UI Designer,5,Specs in docs/ui/
+Development,Home Page Build,As a visitor I want to understand offerings immediately,High,Planned,Front-End Dev,8,Dependencies: design approval
+Development,Portfolio Gallery,As a user I want to filter looks to find inspiration,High,Planned,Front-End Dev,13,Requires CMS data
+Development,Booking Flow,As a client I need easy scheduling to confirm my appointment,High,Planned,Front-End Dev,8,Integrate GlossGenius
+Content,Copywriting,As a brand I need compelling copy that matches tone,Medium,Planned,Copywriter,5,Follow docs/assets/copywriting-brief.md
+Content,Photography,As a brand I need high-quality imagery to showcase work,Medium,Planned,Photographer,8,Follow photography brief
+QA,Accessibility Audit,As a visitor I need inclusive design to navigate easily,High,Planned,QA Engineer,5,See docs/delivery/qa-launch-checklist.md
+Launch,Marketing Kit,As a marketer I want launch assets to drive traffic,Medium,Planned,Marketing Lead,3,See docs/assets/social-media-kit.md
